@@ -1,0 +1,26 @@
+body {
+  padding: 0px;
+  background: linear-gradient(90deg, #68788c 5%, #979da6 75%, #f2eeb3 100%);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f2e205;
+}
+li {
+  float: left;
+  margin-left: 20px;
+}
+li img {
+  height: 100px;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
